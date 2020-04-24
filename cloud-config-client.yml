@@ -1,0 +1,8 @@
+config:
+  info: this is master branch, cloud-config-client.yml, version == 1
+
+
+
+# 端口
+server:
+  port: 9911
