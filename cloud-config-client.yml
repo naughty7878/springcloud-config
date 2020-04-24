@@ -5,4 +5,4 @@ config:
 
 # 端口
 server:
-  port: 9911
+  port: 8889
